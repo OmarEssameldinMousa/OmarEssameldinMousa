@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Essam (Mousa)</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, vanilla JavaScript**
+- 🌱 I’m currently learning **Machine Learning, SQL, PHP**
 
 <p align="left">
 </p>
