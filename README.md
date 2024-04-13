@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Essam (Mousa)</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning, SQL, PHP**
+- 🌱 I’m currently learning **Machine Learning, Data Engineering**
 
 <p align="left">
 </p>
@@ -41,11 +41,6 @@
 </a>
 
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" />
-</a>
-
 <h2>Databases</h2>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -75,14 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
         alt="pandas" width="40" height="40" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"
-        alt="typescript" width="40" height="40" />
-</a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" />
-</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux
