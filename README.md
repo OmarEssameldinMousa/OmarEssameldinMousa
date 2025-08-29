@@ -13,19 +13,23 @@
 🌟 **`cout << Welcome to my digital garden! << endl;`** 🌟  
 <br/>
 
-🚀 **Current Focus:**  
-Building **AutoInfra** — AI & Data workload infrastructure that scales with intelligence and efficiency.
+🚀 **Current Focus:**  🚀
+Crafting **NeuralSolve** — an open-source Python package designed to reimagine how deep neural networks are trained and push their performance to the next frontier.
 
-📚 **Learning Journey:**  
+✨** My Masterpiece Projects: **✨
+Retrieval-Augmented Generation (RAG) System API — developing a professional-grade API for intelligent, document-based answering.
+
+
+📚 **Learning Journey:** 📚 
 Diving deep into **AI**,**Backend Systems**, **Data Engineering**.
 
-💬 **Ask Me About:**  
+**Ask Me About:**  
 Python & C++  
 Data Engineering  
 Distributed Systems  
 AI & LLMs
 
-✨ **Fun Fact:**  
+✨ **Fun Fact:** ✨
 I find elegance in systems the way others see it in flowers or butterflies — simple on the surface, yet profoundly powerful underneath.
 
 </div>
