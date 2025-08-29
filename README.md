@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Saira&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Essam!;&color=CED4DA&background=FFFFFF00" />
 </h1>
 
-<h3 align="center">Data Systems & Big Data Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Data Engineer & Backend Developer from Egypt 🇪🇬</h3>
 
 <br/>
 
