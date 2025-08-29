@@ -1,105 +1,98 @@
-<h1 align="center">Hi 👋, I'm Omar Essameldin</h1>
-<h3 align="center">I'am a passionate Big data Engineer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OmarEssameldinMousa.OmarEssameldinMousa" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@hackatron211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hackatron211" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar (mousa) esam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar (mousa) esam" height="30" width="40" /></a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Saira&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Essam!;&color=CED4DA&background=FFFFFF00" />
+</h1>
+
+<h3 align="center">Data Systems & Big Data Engineer from Egypt 🇪🇬</h3>
+
+<br/>
+
+<div align="center">
+
+🌟 **`cout << Welcome to my digital garden! << endl;`** 🌟  
+<br/>
+
+🚀 **Current Focus:**  
+Building **AutoInfra** — AI & Data workload infrastructure that scales with intelligence and efficiency.
+
+📚 **Learning Journey:**  
+Diving deep into **AI**,**Backend Systems**, **Data Engineering**.
+
+💬 **Ask Me About:**  
+Python & C++  
+Data Engineering  
+Distributed Systems  
+AI & LLMs
+
+✨ **Fun Fact:**  
+I find elegance in systems the way others see it in flowers or butterflies — simple on the surface, yet profoundly powerful underneath.
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:omar.esameldin1111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-essam-3756a9255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/OmarEssameldinMousa" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ <h2 align="center">⚒️ Technical Skills ⚒️</h2>
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,postgres,mysql,mongodb,cassandra,nginx,kafka,aws,docker,linux,django,fastapi,pytorch,redis,rabbitmq,grafana,prometheus,git,github,vscode" /><br><br>
+
+</div>
+<br/>
+<p align="center"><strong>Additional Skills:</strong></p>
+
+<p align="center">
+  
+  
+  <!-- Orchestration & Pipelines -->
+  [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+  [![NiFi](https://img.shields.io/badge/Apache%20NiFi-0091E2?style=flat&logo=apache&logoColor=white)](https://nifi.apache.org/)
+  [![Sqoop](https://img.shields.io/badge/Apache%20Sqoop-555555?style=flat)](https://sqoop.apache.org/)
+  [![Flume](https://img.shields.io/badge/Apache%20Flume-555555?style=flat)](https://flume.apache.org/)
+  [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
+  [![Spark](https://img.shields.io/badge/Spark-FF9900?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+  [![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat)](https://qdrant.tech/) [![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector) [![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3/)
+  [![HDFS](https://img.shields.io/badge/HDFS-FF6600?style=flat)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![Version Control](https://img.shields.io/badge/Version%20Control-555555?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+  [![Cohere](https://img.shields.io/badge/Cohere-0050FF?style=flat)](https://cohere.com/)
+  [![Data Modeling](https://img.shields.io/badge/Data%20Modeling-555555?style=flat)]()
+  [![ETL/ELT](https://img.shields.io/badge/ETL%2FELT%20Pipelines-555555?style=flat)]()
+  [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-555555?style=flat)]()
+  [![Data Science](https://img.shields.io/badge/Data%20Science-555555?style=flat)]()
+
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<h4 align="left">Cloud Platforms:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-</p>
+<hr/>
 
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
 
-<h4 align="left">Web Development:</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-</p>
 
-<h4 align="left">Data and Databases:</h4>
-<p align="left">
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-</p>
 
-<h4 align="left">DevOps and Tools:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OmarEssameldinMousa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=OmarEssameldinMousa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OmarEssameldinMousa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-<h4 align="left">Data Science and Visualization:</h4>
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
+<br/><br/>
 
-<h4 align="left">Streaming Platforms:</h4>
-<p align="left">
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-</p>
+<hr/>
 
